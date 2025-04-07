@@ -1,5 +1,5 @@
 current_tab_name = {"title":"Summit","icon":"origin-logo"}
-summitimage = "https://raw.githubusercontent.com/Mistium/Origin-OS/main/Websites/origin.web/assets/Summit1.png"
+summitimage = "https://web.rotur.dev/origin.web/assets/Summit1.png"
 
 imagesizemultiplier = frame_width / summitimage.imageinfo("width") * 0.5
 
