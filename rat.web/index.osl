@@ -12,7 +12,7 @@ square 100 100 1 0 1
 if clicked and can.not (
 can = true
 )
-image "https://raw.githubusercontent.com/Mistium/owtp/main/rat.web/assets/rat_mouse_PNG23553.png" 100
+image "https://web.rotur.dev/rat.web/assets/rat_mouse_PNG23553.png" 100
 
 Xcoor += 100
 if Xcoor > 200 "Ycoor += 100"

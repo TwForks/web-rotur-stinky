@@ -1,5 +1,5 @@
 current_tab_name = {"title":"originOS","icon":"origin-logo"}
-heroimage = "https://raw.githubusercontent.com/Mistium/owtp/main/origin.web/assets/originscreenshot1.png"
+heroimage = "https://web.rotur.dev/origin.web/assets/originscreenshot1.png"
 
 heroimagesizemultiplier = frame_width / heroimage.imageinfo("width")
 
