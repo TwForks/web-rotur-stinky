@@ -11,12 +11,12 @@ and "passed_input2" <- this is a variable equal to "data2"
 
 these can be anything, for example "passed_referer"
 
-
 ^^ The website name should be entered and end in ".web"
 
 ## Folder Structure
 
 website.web
+
 - index.osl
 - webpage.osl
 - directory1
@@ -27,7 +27,7 @@ website.web
   - index.osl
   - file1
   - file2
- 
+
 ### example urls to access pages of this website
   
 web://website.web/directory1 (grabs index.osl)
